@@ -1,1 +1,2 @@
-# Python-challenge
+# Array_bhai
+Challenge repo
